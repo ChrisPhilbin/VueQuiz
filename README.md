@@ -1,24 +1,7 @@
-# quiz
+# Vue Quiz
 
-## Project setup
-```
-npm install
-```
+Simple Vue quiz app that uses conditional rendering to grade the user's score and updates progress through the quiz.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Live demo: [https://chrisphilbin.net/vue-quiz](https://chrisphilbin.net/vue-quiz)
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![Screen shot of quiz app](https://raw.githubusercontent.com/ChrisPhilbin/VueQuiz/main/src/assets/quiz_app.png)
